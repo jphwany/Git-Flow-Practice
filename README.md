@@ -13,7 +13,7 @@
  - BE : 박재환
 
 ## Project Wiki
--- ### Project Core Concerns --
+-- Project Core Concerns --
  - 프로젝트 팀 정보
  - 프로젝트 기획
  - 아키텍쳐
